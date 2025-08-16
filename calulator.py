@@ -1,5 +1,5 @@
-a=6
-b=5
+a = int(input("Enter any number: "))
+b = int(input("Enter any number: "))
 print ("The ans of",a,"+",b,"=",a+b)
 print ("The ans of",a,"-",b,"=",a-b)
 print ("The ans of",a,"*",b,"=",a*b)
